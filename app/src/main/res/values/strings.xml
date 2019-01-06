@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">English Quran</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="begin">In the name of Allah, The Beneficent, The Merciful</string>
+
+    In the name of Allah, The Beneficent, The Merciful
+
+    <!--surah names-->
+    <string name="qur_1">1 THE OPENING(al-Fatihah)</string>
+    <string name="ver_1">-7 Verses-</string>
+
+    <string name="qur_2">2 THE COW(al-Baqarah))</string>
+    <string name="ver_2">-286 Verses-</string>
+
+    <string name="qur_3">3 FAMILY OF IMRAN (Ali \'Imran)</string>
+    <string name="ver_3">-200 Verses-</string>
+
+    <string name="qur_4">4 WOMEN (an-Nisa\')</string>
+    <string name="ver_4">-176 Verses-</string>
+
+    <string name="qur_5">5 THE TABLE (al-Ma\'idah)</string>
+    <string name="ver_5">-120 Verses-</string>
+
+    <string name="qur_6">6 LIVESTOCK (al-An\'am)</string>
+    <string name="ver_6">-165 Verses-</string>
+
+    <string name="qur_7">7 THE ELEVATIONS (al-A\'raf)</string>
+    <string name="ver_7">-206 Verses-</string>
+
+    <string name="qur_8">8 THE SPOILS (al-Anfal)</string>
+    <string name="ver_8">-75 Verses-</string>
+
+    <string name="qur_9">9 REPENTANCE (at-Tawbah)</string>
+    <string name="ver_9">-129 Verses-</string>
+
+    <string name="qur_10">10 JONAH (Yunus)</string>
+    <string name="ver_10">-109 Verses-</string>
+
+    <string name="Apitext"> Quran Text gotten from AL Quran Cloud</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Settings</string>
+</resources>

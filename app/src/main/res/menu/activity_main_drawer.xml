@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_one"
+
+            android:title="@string/qur_1" />
+        <item
+            android:id="@+id/nav_two"
+
+            android:title="@string/qur_2" />
+        <item
+            android:id="@+id/nav_three"
+
+            android:title="@string/qur_3" />
+        <item
+            android:id="@+id/nav_four"
+
+            android:title="@string/qur_4" />
+        <item
+            android:id="@+id/nav_five"
+
+            android:title="@string/qur_5" />
+
+        <item
+            android:id="@+id/nav_six"
+
+            android:title="@string/qur_6" />
+
+        <item
+            android:id="@+id/nav_seven"
+
+            android:title="@string/qur_7" />
+
+        <item
+            android:id="@+id/nav_eight"
+
+            android:title="@string/qur_8" />
+
+        <item
+            android:id="@+id/nav_nine"
+
+            android:title="@string/qur_9" />
+
+        <item
+            android:id="@+id/nav_ten"
+
+            android:title="@string/qur_10" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
